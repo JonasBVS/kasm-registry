@@ -2,7 +2,7 @@
   "friendly_name": "Java-dev",
   "image_src": "java-dev.png",
   "description": "Java development environemt",
-  "name": "kasmweb/java-dev:1.15.0-rolling",
+  "name": "kasmweb/java-dev:1.16.0-rolling-weekly",
   "cores": 2,
   "memory": 2768,
   "gpu_count": 0,
